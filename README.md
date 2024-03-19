@@ -45,7 +45,7 @@
 - Tacos el Portón
 
 # 5. Código
-'''
+´´´
 
 """Connect Four
 
@@ -109,7 +109,7 @@ grid()
 onscreenclick(tap)
 done()
 
-'''
+´´´
 
 # 6. Regla
 
