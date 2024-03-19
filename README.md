@@ -1,8 +1,8 @@
 # - Hello_Guadalupe_ST24
 # - Ma. Guadalupe Roque Díaz de Leó
-# - Carrera
-# Lugar de Origen
-## - Equipo -
+# - Carrera: ITC
+# Lugar de Origen: Monterrey
+## - Equipo - Pendiente
 
 # ❤️
 # 💡
@@ -45,7 +45,7 @@
 - Tacos el Portón
 
 # 5. Código
-´´´
+```
 
 """Connect Four
 
@@ -109,7 +109,7 @@ grid()
 onscreenclick(tap)
 done()
 
-´´´
+```
 
 # 6. Regla
 
