@@ -45,7 +45,7 @@
 - Tacos el Portón
 
 # 5. Código
-```
+```python
 
 """Connect Four
 
