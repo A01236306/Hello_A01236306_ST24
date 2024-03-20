@@ -1,5 +1,5 @@
-# - Hello_Guadalupe_ST24
-# - Ma. Guadalupe Roque Díaz de Leó
+# - Hello_A01236306_ST24
+# - César Antonio Martínez Vilchis
 # - Carrera: ITC
 # Lugar de Origen: Monterrey
 ## - Equipo - Pendiente
